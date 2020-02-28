@@ -1,0 +1,13 @@
+Exercício:
+
+Crie uma aplicação cordova.
+
+A aplicação deve possuir um ícone diferente do ícone padrão do Cordova.
+
+A aplicação deve exibir uma conta de tabuada aleatória, por exemplo: 2*3= e receber do usuário a resposta.
+
+Se a resposta estiver correta deve mostrar a pontuação do usuário até agora.
+
+Se a resposta estiver incorreta deve vibrar o celular usando o plugin: cordova-plugin-vibration, disponível em:
+https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-vibration/
+
